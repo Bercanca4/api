@@ -1,0 +1,47 @@
+[
+    {
+        "id" : 0,
+        "logoUrl" : "https://cdn.dsmcdn.com/ty712/product/media/images/20230203/15/272837558/212232897/1/1_org_zoom.jpg",
+        "brandname" : "Siyah İnci",
+        "price" : 1.799,
+        "title" : "Deneme Ürünü",
+        "bedavakargo" : "false",
+        "hizliteslimat" : "false",
+        "cokalazode" : "false"
+    
+        },
+        {
+            "id" : 1,
+            "logoUrl" : "https://cdn.dsmcdn.com/ty712/product/media/images/20230203/15/272837558/212232897/1/1_org_zoom.jpg",
+            "brandname" : "Siyah İnci",
+            "price" : 1.799,
+            "title" : "Deneme Ürünü",
+            "bedavakargo" : "false",
+            "hizliteslimat" : "false",
+            "cokalazode" : "false"
+        
+            },
+            {
+                "id" : 2,
+                "logoUrl" : "https://cdn.dsmcdn.com/ty712/product/media/images/20230203/15/272837558/212232897/1/1_org_zoom.jpg",
+                "brandname" : "Siyah İnci",
+                "price" : 1.799,
+                "title" : "Deneme Ürünü",
+                "bedavakargo" : "false",
+                "hizliteslimat" : "false",
+                "cokalazode" : "false"
+            
+                },
+                {
+                    "id" : 3,
+                    "logoUrl" : "https://cdn.dsmcdn.com/ty712/product/media/images/20230203/15/272837558/212232897/1/1_org_zoom.jpg",
+                    "brandname" : "Siyah İnci",
+                    "price" : 1.799,
+                    "title" : "Deneme Ürünü",
+                    "bedavakargo" : "false",
+                    "hizliteslimat" : "false",
+                    "cokalazode" : "false"
+                
+                    }
+    
+]
