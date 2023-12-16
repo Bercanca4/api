@@ -5,26 +5,26 @@
     "statu": false,
     "menu": [
       {
-        "Title": "Giyim",
+        "Title": "Kadın Giyim",
         "CategoryDetails": [
           {
-            "detailName": "Kadın Elbise",
+            "detailName": "Kadın",
             "link": "https://google.com"
           },
           {
-            "detailName": "Tişört",
+            "detailName": "Kadın Tişört",
             "link": "https://google.com"
           },
           {
-            "detailName": "Gömlek",
+            "detailName": " Kadın Gömlek",
             "link": "https://google.com"
           },
           {
-            "detailName": "Kot pantalon",
+            "detailName": "Kadın Kot pantalon",
             "link": "https://google.com"
           },
           {
-            "detailName": "Kot Ceket",
+            "detailName": "Kadın Kot Ceket",
             "link": "https://google.com"
           },
           {
@@ -91,14 +91,14 @@
       },
 
       {
-        "Title": "Ayakkabı",
+        "Title": "Kadın Ayakkabı",
         "CategoryDetails": [
           {
-            "detailName": "Topuklu Ayakkabı",
+            "detailName": "Kadın Topuklu Ayakkabı",
             "link": "https://google.com"
           },
           {
-            "detailName": "Sneaker",
+            "detailName": "Kadın Sneaker",
             "link": "https://google.com"
           },
           {
@@ -142,19 +142,19 @@
         "Title": "Erkek Giyim",
         "CategoryDetails": [
           {
-            "detailName": "Elbise",
+            "detailName": "Erkek Elbise",
             "link": "https://google.com"
           },
           {
-            "detailName": "Tişört",
+            "detailName": "Erkek Tişört",
             "link": "https://google.com"
           },
           {
-            "detailName": "Gömlek",
+            "detailName": "Erkek Gömlek",
             "link": "https://google.com"
           },
           {
-            "detailName": "Kot pantalon",
+            "detailName": "Erkek Kot pantalon",
             "link": "https://google.com"
           },
           {
@@ -228,11 +228,11 @@
         "Title": "Erkek Ayakkabı",
         "CategoryDetails": [
           {
-            "detailName": "Topuklu Ayakkabı",
+            "detailName": "Erkek Topuklu Ayakkabı",
             "link": "https://google.com"
           },
           {
-            "detailName": "Sneaker",
+            "detailName": "Erkek Sneaker",
             "link": "https://google.com"
           },
           {
@@ -240,7 +240,7 @@
             "link": "https://google.com"
           },
           {
-            "detailName": "Babet",
+            "detailName": "Erkek Babet",
             "link": "https://google.com"
           },
           {
@@ -273,14 +273,14 @@
     "statu": false,
     "menu": [
       {
-        "Title": "Anne Giyim",
+        "Title": "Anne & Çocuk Anne Giyim",
         "CategoryDetails": [
           {
-            "detailName": "Elbise",
+            "detailName": "Anne & Çocuk Elbise",
             "link": "https://google.com"
           },
           {
-            "detailName": "Tişört",
+            "detailName": "Anne & Çocuk Tişört",
             "link": "https://google.com"
           },
           {
