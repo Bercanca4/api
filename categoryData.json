@@ -5,11 +5,10 @@
     "statu": false,
     "menu": [
       {
-        "id": 0,
         "Title": "Giyim",
         "CategoryDetails": [
           {
-            "detailName": "KADIN  GİYİM elbise",
+            "detailName": "Elbise",
             "link": "https://google.com"
           },
           {
@@ -92,7 +91,6 @@
       },
 
       {
-        "id": 1,
         "Title": "Ayakkabı",
         "CategoryDetails": [
           {
@@ -141,8 +139,7 @@
     "statu": false,
     "menu": [
       {
-        "id": 0,
-        "Title": "test erkek",
+        "Title": "Erkek Giyim",
         "CategoryDetails": [
           {
             "detailName": "Elbise",
@@ -228,8 +225,7 @@
       },
 
       {
-        "id": 1,
-        "Title": "Ayakkabı",
+        "Title": "Erkek Ayakkabı",
         "CategoryDetails": [
           {
             "detailName": "Topuklu Ayakkabı",
@@ -277,8 +273,7 @@
     "statu": false,
     "menu": [
       {
-        "id": 0,
-        "Title": "test anne çocuk ",
+        "Title": "Anne Giyim",
         "CategoryDetails": [
           {
             "detailName": "Elbise",
@@ -364,8 +359,7 @@
       },
 
       {
-        "id": 1,
-        "Title": "Ayakkabı",
+        "Title": "Anne Ayakkabı",
         "CategoryDetails": [
           {
             "detailName": "Topuklu Ayakkabı",
@@ -413,7 +407,6 @@
     "statu": false,
     "menu": [
       {
-        "id": 0,
         "Title": "Giyim",
         "CategoryDetails": [
           {
@@ -500,7 +493,6 @@
       },
 
       {
-        "id": 1,
         "Title": "Ayakkabı",
         "CategoryDetails": [
           {
@@ -549,7 +541,6 @@
     "statu": false,
     "menu": [
       {
-        "id": 0,
         "Title": "Giyim",
         "CategoryDetails": [
           {
@@ -636,7 +627,6 @@
       },
 
       {
-        "id": 1,
         "Title": "Ayakkabı",
         "CategoryDetails": [
           {
@@ -685,7 +675,6 @@
     "statu": false,
     "menu": [
       {
-        "id": 0,
         "Title": "Giyim",
         "CategoryDetails": [
           {
@@ -772,7 +761,6 @@
       },
 
       {
-        "id": 1,
         "Title": "Ayakkabı",
         "CategoryDetails": [
           {
@@ -821,7 +809,6 @@
     "statu": false,
     "menu": [
       {
-        "id": 0,
         "Title": "Giyim",
         "CategoryDetails": [
           {
@@ -908,7 +895,6 @@
       },
 
       {
-        "id": 1,
         "Title": "Ayakkabı",
         "CategoryDetails": [
           {
@@ -957,7 +943,6 @@
     "statu": false,
     "menu": [
       {
-        "id": 0,
         "Title": "Giyim",
         "CategoryDetails": [
           {
@@ -1044,7 +1029,6 @@
       },
 
       {
-        "id": 1,
         "Title": "Ayakkabı",
         "CategoryDetails": [
           {
@@ -1093,7 +1077,6 @@
     "statu": false,
     "menu": [
       {
-        "id": 0,
         "Title": "Giyim",
         "CategoryDetails": [
           {
@@ -1180,7 +1163,6 @@
       },
 
       {
-        "id": 1,
         "Title": "Ayakkabı",
         "CategoryDetails": [
           {
