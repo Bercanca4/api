@@ -1,0 +1,188 @@
+[
+  {
+    "id": 0,
+    "name": "Kadın",
+    "statu": false,
+    "menu": [
+      {
+        "id": 0,
+        "Title": "Giyim",
+        "CategoryDetails": [
+          {
+            "detailName": "Elbise",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Tişört",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Gömlek",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kot pantalon",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kot Ceket",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Pantalon",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Mont",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Bluz",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Ceket",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Etek",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kazak",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Tesettür",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Tişört",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Büyük Beden",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Trençkot",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Yağmurluk & Rüzgarlık",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Sweatshirt",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kaban",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Hırka",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Palto",
+            "link": "https://google.com"
+          }
+        ]
+      },
+
+      {
+        "id": 1,
+        "Title": "Ayakkabı",
+        "CategoryDetails": [
+          {
+            "detailName": "Topuklu Ayakkabı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Sneaker",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Günlük Ayakkabı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Babet",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Sandalet",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Bot",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Çizme",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kar Botu",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Loafer",
+            "link": "https://google.com"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Erkek",
+    "statu": false
+  },
+  {
+    "id": 2,
+    "name": "Anne & Çocuk",
+    "statu": false
+  },
+  {
+    "id": 3,
+    "name": "Ev & Yaşam",
+    "statu": false
+  },
+  {
+    "id": 4,
+    "name": "Süpermarket",
+    "statu": false
+  },
+  {
+    "id": 5,
+    "name": "Kozmetik",
+    "statu": false
+  },
+  {
+    "id": 6,
+    "name": "Ayakkabı & Çanta",
+    "statu": false
+  },
+  {
+    "id": 7,
+    "name": "Elektronik",
+    "statu": false
+  },
+  {
+    "id": 8,
+    "name": "Spor & Outdoor",
+    "statu": false
+  },
+  {
+    "id": 9,
+    "name": "Çok Satanlar",
+    "statu": true
+  },
+  {
+    "id": 10,
+    "name": "Flaş Ürünler",
+    "statu": true
+  }
+]
