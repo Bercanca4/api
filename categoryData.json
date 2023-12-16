@@ -139,6 +139,137 @@
     "id": 1,
     "name": "Erkek",
     "statu": false
+    "menu": [
+      {
+        "id": 0,
+        "Title": "test",
+        "CategoryDetails": [
+          {
+            "detailName": "Elbise",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Tişört",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Gömlek",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kot pantalon",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kot Ceket",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Pantalon",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Mont",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Bluz",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Ceket",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Etek",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kazak",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Tesettür",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Tişört",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Büyük Beden",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Trençkot",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Yağmurluk & Rüzgarlık",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Sweatshirt",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kaban",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Hırka",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Palto",
+            "link": "https://google.com"
+          }
+        ]
+      },
+
+      {
+        "id": 1,
+        "Title": "Ayakkabı",
+        "CategoryDetails": [
+          {
+            "detailName": "Topuklu Ayakkabı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Sneaker",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Günlük Ayakkabı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Babet",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Sandalet",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Bot",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Çizme",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kar Botu",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Loafer",
+            "link": "https://google.com"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 2,
