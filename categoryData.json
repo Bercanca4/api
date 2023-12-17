@@ -341,6 +341,168 @@
             "link": "https://google.com"
           }
         ]
+      },
+      {
+        "Title": "Kozmetik",
+        "CategoryDetails": [
+          {
+            "detailName": "Parfüm",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Cilt Bakımı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Saç Bakımı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Makyaj ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Ağız Bakım",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Cinsel Sağlık",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Vücut Bakım",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Hijyenik Ped",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Duş Jeli & Kremleri",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Epilasyon Ürünleri",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Ruj",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Dudak Nemlendirici",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Aydınlatıcı & Highlighter",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Eyeliner",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Ten Makyajı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Manikür & Pedikür",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "BB & CC Krem",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "El Kremi",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Yüz Nemlendirici",
+            "link": "https://google.com"
+          }
+        ]
+      },
+      {
+        "Title": "Spor & Outdoor",
+        "CategoryDetails": [
+          {
+            "detailName": "Sweatshirt",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Tişört",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Spor Sütyeni",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Tayt ",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Eşofman",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Koşu Ayakkabısı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Spor Çantası",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Spor Ekipmanları",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Outdoor Ayakkabı",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kar Botu",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Outdoor Ekipmanları",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Sporcu Besinleri",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Sporcu Aksesuarları",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Outdoor Çanta",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kayak Malzemeleri",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Mat",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Dağcılık",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Kadın Spor Ceket",
+            "link": "https://google.com"
+          },
+          {
+            "detailName": "Spor Ayakkabı",
+            "link": "https://google.com"
+          }
+        ]
       }
     ]
   },
